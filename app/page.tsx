@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="flex items-center justify-center h-screen">
       <Image
-        alt="Freestyle Logo"
+        alt="Darwin Statue"
         src="/darwin-statue.png"
         width={340}
         height={340}
