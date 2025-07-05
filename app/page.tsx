@@ -5,9 +5,9 @@ export default function Home() {
     <div className="flex items-center justify-center h-screen">
       <Image
         alt="Freestyle Logo"
-        src="/placeholder-freestyle-logo.svg"
-        width={347}
-        height={280}
+        src="/darwin-statue.png"
+        width={340}
+        height={340}
         className="opacity-10 w-48"
       />
     </div>
